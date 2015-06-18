@@ -58,6 +58,9 @@ Here is a *very* incomplete list of users:
 * `Oliver et al. (2014) <http://dx.doi.org/10.1063/1.4866813>`_
 * `Narbutis et al. (2014) <http://arxiv.org/abs/1410.2514>`_
 * `Narbutis et al. (2014) <http://arxiv.org/abs/1410.2521>`_
+* `Scalzo et al. (2014a) <http://arxiv.org/abs/1402.6842>`_
+* `Scalzo et al. (2014b) <http://arxiv.org/abs/1404.1002>`_
+* `Scalzo, Ruiter, & Sim (2014) <http://arxiv.org/abs/1408.6601>`_
 * `Kirichenko et al. (2015) <http://arxiv.org/abs/1501.04594>`_
 
 Please `let us know <mailto:danfm@nyu.edu>`_ if your work should be included
